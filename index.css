@@ -157,5 +157,11 @@
      .second{
          width: 100%;
      }
- 
+     
+
+     ul li{
+      
+      padding-left: 20px;
+      
+    }
    }
