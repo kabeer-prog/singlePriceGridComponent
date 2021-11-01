@@ -6,6 +6,9 @@ FrontEndMentor Single Price Grid Component
 
 ## Welcome! 👋
 
+Live link https://admiring-davinci-01c19d.netlify.app/
+
+
 Thanks for checking out this front-end coding challenge.
 
 [Frontend Mentor](https://www.frontendmentor.io) challenges help you improve your coding skills by building realistic projects.
