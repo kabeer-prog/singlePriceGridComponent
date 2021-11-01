@@ -83,6 +83,10 @@
       background:hsl(71, 73%, 54%);
       width: 80%;
       text-decoration: none;
+      display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
   
   }
   ul li{
