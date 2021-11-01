@@ -143,7 +143,7 @@
    background-color: gray;
 
  }
-   @media  (max-width: 375px) {
+   @media  (max-width: 680px) {
      body{
        font-size: .8rem;
      }
