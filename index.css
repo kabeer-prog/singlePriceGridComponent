@@ -153,6 +153,7 @@
              }
      .first{
          width: 100%;
+         border-bottom-left-radius:0;
      }        
      .second{
          width: 100%;
